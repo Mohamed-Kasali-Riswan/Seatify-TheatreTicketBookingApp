@@ -1,1 +1,2 @@
-# Seatify-TheatreTicketBookingApp
+# Seatify-Theatre Ticket Booking Console Application
+This is a Java-based console application that allows users to book theatre tickets by selecting show timings, seats, and viewing availability. It includes features like seat reservation, booking confirmation, and viewing booked tickets. Designed using object-oriented principles, this project is ideal for understanding basic Java concepts like classes, arrays, and user input handling. Great for beginners exploring real-world Java applications!
